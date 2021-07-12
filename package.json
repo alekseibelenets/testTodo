@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "c",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "Alex Belenets",
+  "license": "ISC"
+}
